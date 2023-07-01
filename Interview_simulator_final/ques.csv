@@ -1,0 +1,11 @@
+slno,key,question,answer
+1,AI,1What do you understand by Artificial Intelligence?,Artificial intelligence is computer science technology that emphasizes creating intelligent machine that can mimic human behavior Here Intelligent machines can be defined as the machine that can behave like a human think like a human and also capable of decision making It is made up of two words Artificial and Intelligence which means the man-made thinking ability With artificial intelligence we do not need to pre-program the machine to perform a task instead we can create a machine with the programmed algorithms and it can work on its own
+2,AI,2What are the different domains/Subsets of AI?,Machine Learning Deep Learning Natural Language processing Expert System Robotics Machine Vision Speech Recognition
+3,AI,3Explain the term "Q-Learning"?,Q-learning is a popular algorithm used in reinforcement learning It is based on the Bellman equation. In this algorithm the agent tries to learn the policies that can provide the best actions to perform for maximining the rewards under particular circumstances. The agent learns these optimal policies from past experiences. In Q-learning the Q is used to represent the quality of the actions at each state and the goal of the agent is to maximize the value of Q.
+4,ML,4ML4,ans4
+5,ML,5ML5,ans5
+6,ML,6ML6,ans6
+7,ML,7ML7,ans7
+8,ML,8ML8,ans8
+9,html,9html1,AI ML NLP
+10,html,10html3,hans3
